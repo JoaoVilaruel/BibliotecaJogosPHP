@@ -54,4 +54,5 @@ Uso livre para fins acadêmicos e de aprendizado.
 ---
 
 **Autor:** João Alexandre Vilaruel Dos Santos , Caio Voitena Roupa e Silvio Gabriel Felix de Souza
+
 Projeto desenvolvido em 2025
